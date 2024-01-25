@@ -4,6 +4,11 @@ header{
     border-radius: 10px;
     background-image: url(https://images.pexels.com/photos/3763313/pexels-photo-3763313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
     background-size: cover;
+    font-size: 60px;
+    color: #ffffff;
+    display: grid;
+    place-items: center; 
+    /* 會在水平和垂直的置中 */
 }
 main{
     min-height: 800px;
